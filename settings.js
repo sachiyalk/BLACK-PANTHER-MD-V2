@@ -2,7 +2,8 @@
 
 //
 
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                             ᴍʀ.ꜱᴀᴄʜɪʏᴀ ᴏꜰꜰɪᴄɪᴀʟ
+
 
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 
@@ -39,31 +40,31 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
+global.owner = ['★彡[ᴍʀ.ꜱᴀᴄʜɪʏᴀ 666]彡★']
 
-global.premium = ['🖤Black Panther Bot🖤']
+global.premium = ['🖤𝘔𝘙.𝘚𝘈𝘊𝘏𝘐𝘠𝘈 𝘉𝘖𝘛 🖤']
 
-global.ownernomer = '+94741671668'
+global.ownernomer = '+94764526054'
 
-global.ownername = 'Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚'
+global.ownername = 'ᴍʀ.ꜱᴀᴄʜɪʏᴀ'
 
-global.botname = '🖤Black Panther Bot🖤'
+global.botname = '🖤𝘔𝘙.𝘚𝘈𝘊𝘏𝘐𝘠𝘈 𝘉𝘖𝘛🖤'
 
-global.footer = '©Black panther🖤.'
+global.footer = '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴍʀ.ꜱᴀᴄʜɪʏᴀ.'
 
-global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.ig = 'https://www.youtube.com/channel/UC2FkdjIyfmzaxBv39lC0ryg'
 
-global.region = '*╚═══❖•ೋ° 𝙱𝚕𝚊𝚌𝚔 𝙿𝚊𝚗𝚝𝚑𝚎𝚛 𝙼𝙳  °ೋ•❖═══╝*'
+global.region = '*╚═══❖•ೋ° 𝐌𝐑.𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝙼𝙳  ೋ•❖═══╝*'
 
-global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
+global.sc = 'https://www.youtube.com/channel/UC2FkdjIyfmzaxBv39lC0ryg'
 
-global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
+global.myweb = 'https://www.youtube.com/channel/UC2FkdjIyfmzaxBv39lC0ryg'
 
-global.packname = '🖤Black Panther Bot🖤'
+global.packname = '🖤𝘔𝘙.𝘚𝘈𝘊𝘏𝘐𝘠𝘈🖤'
 
-global.author = '🖤Black Panther Bot🖤'
+global.author = '🖤𝘔𝘙.𝘚𝘈𝘊𝘏𝘐𝘠𝘈 𝘉𝘖𝘛🖤'
 
-global.sessionName = 'session'
+global.sessionName = '𝘔𝘙.𝘚𝘈𝘊𝘏𝘐𝘠𝘈'
 
 global.prefa = ['','!','.','❄','🖤','☃']
 
